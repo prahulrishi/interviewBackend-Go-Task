@@ -7,6 +7,8 @@ The second API is to book a slot in the class as a member of the gym.
 ### Steps to Run the code:
 
 Place the main.go and main_test.go files in a folder and navigate to that folder in terminal, then execute these commands in the specified order.
+
+
 `
 go mod init AbcGlofox-Task
 `
