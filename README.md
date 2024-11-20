@@ -5,6 +5,15 @@ The task is to implement two APIs, one to create a class(say Pilates, Lunges, et
 The second API is to book a slot in the class as a member of the gym.
 
 ### Steps to Run the code:
+
+`
+go mod init AbcGlofox-Task
+`
+
+`
+go mod tidy
+`
+
 `
 go run main.go
 `
