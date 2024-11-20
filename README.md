@@ -79,7 +79,7 @@ go test -v
 
 and the test response is :
 
-![](https://drive.google.com/uc?export=view&id=1Z51MlclpvvP7CFLa5Qc1r_HqSSbI8wlN)
+![](https://drive.google.com/uc?export=view&id=17RliM2o--RAOpfqP2kbE-awYp8CzFOAx)
 
 
 I have used two files, namely. "classes.json" and "bookings.json" to act as a database to log all the class data and the booking data. 
