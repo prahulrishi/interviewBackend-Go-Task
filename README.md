@@ -7,9 +7,9 @@ The second API is to book a slot in the class as a member of the gym.
 // No authorisation required to make an api call for instance
 
 
-
+<-- 
 The main.go file contains the API handlers and when run, server listens on port :8088
-
+-->
 
 
 input for the class creation API looks like :
@@ -74,3 +74,6 @@ I have used two files, namely. "classes.json" and "bookings.json" to act as a da
 
 
 I have maintained an "api_responses.log" file to log all the apicall responses to later verify.
+
+
+
